@@ -1,0 +1,1 @@
+/home/random/文档/YOLO/YOLOV3_tensorflow_rrddcc_github/data/JPEGImages/50108/52.jpg
